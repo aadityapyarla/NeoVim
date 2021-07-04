@@ -141,8 +141,9 @@ You can also reach me by raising an issue or making a pull request.
 
 Made with 
 <a href="#">
-  <img width="20" height="20" src="https://www.static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" />
+  <img width="20" height="20" src="https://static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" />
 </a>
+
 
 
   
