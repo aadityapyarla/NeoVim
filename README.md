@@ -46,14 +46,80 @@ To inspect the build, these CMake features are useful:
 - `build/CMakeCache.txt` (or `cmake -LAH build/`) contains the resolved values of all CMake variables.
 - `build/compile_commands.json` shows the full compiler invocations for each translation unit.
 
+## Features
+
+- Elegant Editor Design
+- Supports various plugins like : 
+    - Conquer of completion
+    - Which-Key
+    - Ranger
+    - NERDTree
+    - Codi Interactive Scratchpad
+- Rapid navigation and usefull mappings.
+    
+    Checkout my `keys/mappings.vim` file for more bindings.
+
+- Works on all unix systems.
+
+## Screenshots
+- Startify
+
+<br />
+
+![App Screenshot](https://github.com/aadityapyarla/NeoVim/blob/master/.assets/Screenshot%202021-07-04%20at%202.05.14%20PM.png?raw=true)
+- NERDTree and Onedark theme
+
+<br />
+
+![App Screenshot](https://github.com/aadityapyarla/NeoVim/blob/master/.assets/Screenshot%202021-07-04%20at%202.07.29%20PM.png?raw=true)
+
+<br />
+
+- Which-Key : Never forget your key bindings
+
+<br />
+
+![App Screenshot](https://github.com/aadityapyarla/NeoVim/blob/master/.assets/Screenshot%202021-07-04%20at%202.09.42%20PM.png?raw=true)
+
+<br />
+
+- Built-in Ranger For navigation
+
+<br />
+
+![App Screenshot](https://github.com/aadityapyarla/NeoVim/blob/master/.assets/Screenshot%202021-07-04%20at%202.10.41%20PM.png?raw=truee)
+
+<br />
+
+- CSS coloured codes 
+
+<br />
+
+![App Screenshot](https://github.com/aadityapyarla/NeoVim/blob/master/.assets/Screenshot%202021-07-04%20at%203.32.22%20PM.png?raw=true)
+
+<br />
+
+- Rapid file finding using built-in FZF
+
+<br />
+
+![App Screenshot](https://github.com/aadityapyarla/NeoVim/blob/master/.assets/fzf.gif?raw=true)
+
+<br />
+
+- Codi Interactive Scratchpad for Hackers
+
+<br />
+
+![App Screenshot](https://github.com/aadityapyarla/NeoVim/blob/master/.assets/codi.gif?raw=true)
+
+
 Resources
 ---------
 
 - [Mastering Neovim](https://www.youtube.com/channel/UCS97tchJDq17Qms3cux8wcA)
-
 - [Twitter](https://www.twitter.com/APyarla)
-
-- [Instagram](https://www.instagram.com/aadityapyarla9700/)
+- [Chris's Blog](https://www.chiarulli.me/Neovim/01-vim-plug/)
 
 
 ## Authors
@@ -62,9 +128,26 @@ Resources
 - Forked from --> [@ChristianChiarulli](https://www.github.com/ChristianChiarulli)
 
 
-  
+## Related
+- [LunarVim](https://www.github.com/ChristianChiarulli/LunarVim)
+- [Vim configurer](https://www.vimconfig.com/)
+
+
 ## Feedback
 
-If you have any feedback, please reach me out at aadityapyarla82@gmail.com
+If you have any feedback, please reach out to us at aadityapyarla82@gmail.com
+
+You can also reach me by raising an issue or making a pull request.
+
+Made with 
+<a href="#">
+  <img width="20" height="20" src="https://www.static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" />
+</a>
+
+
+  
+## Support
+
+For support, email me or collaborate with me.
 
   
